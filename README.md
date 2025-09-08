@@ -64,7 +64,7 @@ FROM claims_table
 ```
 
 ### Method 3: STRUCT Reconstruction
-- Rebuilds complete data structure with calculated values
+- Rebuilds the complete data structure with calculated values
 - Perfect for ETL pipelines
 
 ```sql
@@ -99,7 +99,7 @@ GROUP BY claimHeader.claimId, claimHeader.lineOfBusiness
 
 ## 🔧 Prerequisites
 
-- **Databricks Runtime**: 7.3 LTS or higher
+- **Databricks Runtime**: 12.3 LTS or higher
 - **Spark Version**: 3.0+
 - **SQL Analytics**: Supported in Databricks SQL warehouses
 
@@ -165,7 +165,7 @@ Compare execution times and resource usage between methods for your specific use
 ### When to Use LATERAL VIEW EXPLODE:
 - ✅ Complex multi-column aggregations
 - ✅ Multiple aggregation functions needed
-- ✅ SQL developer familiarity important
+- ✅ SQL developer familiarity is important
 - ✅ Ad-hoc analysis and exploration
 
 ### General Tips:
