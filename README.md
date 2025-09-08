@@ -213,8 +213,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Vik Malhotra**
 - 📧 Email: vik.malhotra@databricks.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: [@your-github-username]
+- 💼 LinkedIn: [Vik Malhotra](https://www.linkedin.com/in/vkmalhotra/)
+- 🐙 GitHub: [@bigdatavik](https://github.com/bigdatavik)
 
 ## 🙏 Acknowledgments
 
